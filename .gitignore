@@ -1,0 +1,6 @@
+# Google Creds
+terraform*.json
+
+# Terraform
+*tfstate*
+.terraform/
