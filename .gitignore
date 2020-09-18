@@ -4,3 +4,5 @@ terraform*.json
 # Terraform
 *tfstate*
 .terraform/
+
+*id_rsa
