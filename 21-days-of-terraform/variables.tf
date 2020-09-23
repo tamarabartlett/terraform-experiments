@@ -15,3 +15,7 @@ variable "private_cidrs" {
 variable "zones" {
   default = ["us-west-2a", "us-west-2b"]
 }
+
+variable "my_public_key" {
+  default = "instances/id_rsa.pub"
+}
